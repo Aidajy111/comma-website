@@ -285,7 +285,7 @@
 		min-width: calc(50% - var(--space-2x));
 	} */
 
-	/* slider */
+	/* slider style*/
 	.slick-track {
 		display: flex;
 	}
