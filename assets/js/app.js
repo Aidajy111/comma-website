@@ -265,6 +265,7 @@ setTimeout(showCookieOverlay, 1000);
 // }
 //--------------- Slider carousel (start) ---------------//
 
+//--------------- command slider  ---------------//
 function WidthWindow(){
 	if(window.innerWidth < 1101) {
 		$('.command__block').slick({
